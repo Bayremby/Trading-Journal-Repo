@@ -1,0 +1,7 @@
+{
+  "name": "Chronos Trade Journal",
+  "description": "A systematic trading journal for discretionary traders using ICT and SMT concepts. Focuses on process, discipline, and performance metrics rather than just PnL.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
